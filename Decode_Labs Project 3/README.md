@@ -7,10 +7,8 @@ This is my third project as part of the DecodeLabs Data Analytics Internship.
 In this project, I used SQL to analyze an e-commerce orders dataset and extract useful insights about sales, products, customers and orders.
 
 ### Tools Used
-- MySQL
 - MySQL Workbench
 - Excel
-- SQL
 
 ### SQL Concepts Used
 - SELECT
